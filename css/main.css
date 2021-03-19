@@ -5,10 +5,7 @@ html {
 *, *::before, *::after {
   box-sizing: inherit;
   background-color: #c9b5ab;
-}
-
-html {
-  font-family: 'PT Serif', serif;
+  font-family: "PT Serif", serif;
   line-height: 1.5rem;
 }
 
@@ -18,17 +15,17 @@ img {
 
 h1 {
   color: #3f1622;
-  font-family: 'PT Sans', sans-serif;
+  font-family: "PT Sans", sans-serif;
 }
 
 nav a {
-  font-family: 'PT Sans', sans-serif;
+  font-family: "PT Sans", sans-serif;
   font-weight: bold;
   color: #8f2440;
 }
 
 h2 {
-  font-family: 'PT Sans', sans-serif;
+  font-family: "PT Sans", sans-serif;
   font-weight: bold;
   color: #3f1622;
 }
@@ -60,7 +57,7 @@ main cite:nth-child(2) {
 }
 
 strong {
-font-style: none;
+  font-weight: normal;
 }
 
 main ol {
@@ -70,6 +67,7 @@ main ol {
 .serving {
   font-style: italic;
 }
+
 dt {
   font-weight: bold;
 }
