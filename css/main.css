@@ -39,7 +39,7 @@ header ol {
 figcaption {
   text-align: center;
   font-style: italic;
-  font-size: 0.8rem;
+  font-size: .8rem;
 }
 
 .days {
@@ -48,7 +48,6 @@ figcaption {
 
 .quote {
   font-style: italic;
-  font-size: 1rem;
   margin: 0 3rem;
   font-size: 1.125rem;
 }
@@ -77,4 +76,13 @@ dt {
 
 aside ul li {
   list-style-type: circle;
+}
+
+a {
+ color: #8f2440;
+ text-decoration: none;
+}
+
+a:hover {
+  color: #222;
 }
