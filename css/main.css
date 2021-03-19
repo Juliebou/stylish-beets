@@ -79,10 +79,11 @@ aside ul li {
 }
 
 a {
- color: #8f2440;
- text-decoration: none;
+  color: #8f2440;
+  text-decoration: none;
 }
 
 a:hover {
   color: #222;
+  text-decoration: underline;
 }
