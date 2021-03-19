@@ -5,10 +5,13 @@ html {
 *, *::before, *::after {
   box-sizing: inherit;
   background-color: #c9b5ab;
-}
+  <link href="https://fonts.googleapis.com/css2?family=PT+Sans:wght@700&display=swap" rel="stylesheet">
+  }
+
 
 h1 {
   color: #3f1622;
+  font-family: 'PT Sans', sans-serif;
 }
 
 h1 + ol {
