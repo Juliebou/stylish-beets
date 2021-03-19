@@ -16,6 +16,7 @@ img {
 h1 {
   color: #3f1622;
   font-family: "PT Sans", sans-serif;
+  font-size: 1.5rem;
 }
 
 nav a {
@@ -38,6 +39,7 @@ header ol {
 figcaption {
   text-align: center;
   font-style: italic;
+  font-size: 0.8rem;
 }
 
 .days {
@@ -48,10 +50,11 @@ figcaption {
   font-style: italic;
   font-size: 1rem;
   margin: 0 3rem;
+  font-size: 1.125rem;
 }
 
 main cite:nth-child(2) {
-  font-size: 0.5em;
+  font-size: .5em;
   margin: 0 3rem;
   line-height: 3rem;
 }
