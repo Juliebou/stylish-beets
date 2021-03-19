@@ -5,8 +5,6 @@ html {
 *, *::before, *::after {
   box-sizing: inherit;
   background-color: #c9b5ab;
-  <link href="https://fonts.googleapis.com/css2?family=PT+Sans:wght@700&display=swap" rel="stylesheet">
-  <link href="https://fonts.googleapis.com/css2?family=PT+Serif:ital,wght@0,400;0,700;1,400&display=swap" rel="stylesheet">
 }
 
 html {
