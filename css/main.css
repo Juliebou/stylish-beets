@@ -6,9 +6,9 @@ html {
   box-sizing: inherit;
   background-color: #c9b5ab;
   font-family: "PT Serif", serif;
-  font-size: 1rem;
-  line-height: 1.5rem;
+  line-height: 1.5;
   color: #222;
+  font-weight: normal;
 }
 
 img {
@@ -16,6 +16,7 @@ img {
 }
 
 i,
+h2,
 h1 {
   color: #3f1622;
   font-family: "PT Sans", sans-serif;
@@ -24,15 +25,8 @@ h1 {
 
 nav a {
   font-family: "PT Sans", sans-serif;
-  font-weight: bold;
   color: #8f2440;
-}
-
-h2 {
-  font-family: "PT Sans", sans-serif;
-  font-weight: bold;
-  color: #3f1622;
-  font-size: 1.5rem;
+  font-size: 1.125rem;
 }
 
 header ol {
@@ -43,7 +37,6 @@ header ol {
 figcaption {
   text-align: center;
   font-style: italic;
-  font-size: .8rem;
 }
 
 .days {
@@ -52,21 +45,16 @@ figcaption {
 
 .quote {
   font-style: italic;
-  margin: 0 3rem;
   font-size: 1.5rem;
-  line-height: 2rem;
 }
 
 .chris {
   font-size: .8em;
-  margin: 0 3rem;
-  line-height: 3rem;
 }
 
-em,
-strong {
+.beets {
   font-weight: normal;
-  font-size: 1.5rem;
+  font-style: normal;
 }
 
 main ol {
