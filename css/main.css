@@ -7,12 +7,14 @@ html {
   background-color: #c9b5ab;
   font-family: "PT Serif", serif;
   line-height: 1.5rem;
+  color: #222;
 }
 
 img {
   width: 100%;
 }
 
+i,
 h1 {
   color: #3f1622;
   font-family: "PT Sans", sans-serif;
@@ -49,10 +51,11 @@ figcaption {
 .quote {
   font-style: italic;
   margin: 0 3rem;
-  font-size: 1.125rem;
+  font-size: 1.5rem;
+  line-height: 2rem;
 }
 
-main cite:nth-child(2) {
+.chris {
   font-size: .5em;
   margin: 0 3rem;
   line-height: 3rem;
@@ -74,8 +77,14 @@ dt {
   font-weight: bold;
 }
 
+dd {
+  font-size: .8rem;
+}
+
 aside ul li {
   list-style-type: circle;
+  font-size: .8rem;
+  line-height: 1.2rem;
 }
 
 a {
@@ -86,4 +95,8 @@ a {
 a:hover {
   color: #222;
   text-decoration: underline;
+}
+
+footer {
+  font-size: 0.8rem;
 }
