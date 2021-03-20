@@ -6,6 +6,7 @@ html {
   box-sizing: inherit;
   background-color: #c9b5ab;
   font-family: "PT Serif", serif;
+  font-size: 1rem;
   line-height: 1.5rem;
   color: #222;
 }
@@ -31,6 +32,7 @@ h2 {
   font-family: "PT Sans", sans-serif;
   font-weight: bold;
   color: #3f1622;
+  font-size: 1.5rem;
 }
 
 header ol {
@@ -56,13 +58,15 @@ figcaption {
 }
 
 .chris {
-  font-size: .5em;
+  font-size: .8em;
   margin: 0 3rem;
   line-height: 3rem;
 }
 
+em,
 strong {
   font-weight: normal;
+  font-size: 1.5rem;
 }
 
 main ol {
@@ -71,6 +75,7 @@ main ol {
 
 .serving {
   font-style: italic;
+  font-size: .8rem;
 }
 
 dt {
